@@ -33,8 +33,9 @@ header .container {
 
 
 .logo img {
-    height: 160px; 
+    height: 200px; 
     padding-top: 5px;
+    left: 10px;
 }
 
 nav ul {
