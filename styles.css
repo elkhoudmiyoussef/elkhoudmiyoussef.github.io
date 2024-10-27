@@ -30,10 +30,7 @@ header .container {
     justify-content: space-between;
     align-items: center;
 }
-.logo {
-    display: flex;
-    height: 200px;
-}
+
 
 .logo img {
     height: 200px; 
